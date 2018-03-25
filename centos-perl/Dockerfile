@@ -1,4 +1,4 @@
-FROM jbioi/centos-dev:stable
+FROM jbioi/centos-dev
 
 MAINTAINER kongdeju <kongdeju@gene.ac>
 

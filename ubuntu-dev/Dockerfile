@@ -1,4 +1,4 @@
-FROM jbioi/ubuntu-base:stable
+FROM jbioi/ubuntu-base
 
 MAINTAINER kongdeju <kongdeju@gene.ac>
 

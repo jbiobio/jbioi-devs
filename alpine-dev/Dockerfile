@@ -1,5 +1,5 @@
 
-FROM jbioi/alpine-base:stable
+FROM jbioi/alpine-base
 
 MAINTAINER kongdeju <kongdeju@gene.ac>
 
