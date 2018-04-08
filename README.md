@@ -4,5 +4,6 @@
 
     jbiot
     conda
+    wget 
     ...
 
