@@ -5,5 +5,6 @@
     jbiot
     conda
     wget 
+    oss2tools.py
     ...
 
